@@ -1,0 +1,5 @@
+{
+  "InsuarenceDatabase": "Server=DESKTOP-FARR8IG\\SQLEXPRESS;Database=Insuarence;Trusted_Connection=True;",
+  "ISBDatabase": "Server=DESKTOP-FARR8IG\\SQLEXPRESS;Database=ISBTemplate;Trusted_Connection=True;",
+  "Local": "Server=DESKTOP-FARR8IG\\SQLEXPRESS;Database=LocalTemplate;Trusted_Connection=True;"
+}
